@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ListaEnlazada
+comment0.text=\r\n\ Proyecto\:\ Listas\ Enlazadas\r\n\ Autor\:\ Julio\ Mauricio\ Vel\u00E1zquez\ Monsrreal\r\n\ Fecha\:\ 27\ de\ noviembre\ del\ 2023\r\n
+comment1.params=
+comment1.target=ListaEnlazada()
+comment2.params=identificador
+comment2.target=NodoEnlace\ buscarPorClave(int)
+comment3.params=identificadorBuscar\ nuevoIdentificador
+comment3.target=void\ insertarDespuesDeClave(int,\ int)
+comment4.params=identificador1\ identificador2
+comment4.target=void\ intercambiarNodos(int,\ int)
+numComments=5
